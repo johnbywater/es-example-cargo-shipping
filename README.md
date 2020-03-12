@@ -1,7 +1,7 @@
 # Cargo shipping example
 
-[![Build Status](https://travis-ci.org/johnbywater/es-example-cargoshipping.svg?branch=master)](https://travis-ci.org/johnbywater/es-example-cargoshipping)
-[![Coverage Status](https://coveralls.io/repos/github/johnbywater/es-example-cargoshipping/badge.svg?branch=master)](https://coveralls.io/github/johnbywater/es-example-cargoshipping)
+[![Build Status](https://travis-ci.org/johnbywater/es-example-cargo-shipping.svg?branch=master)](https://travis-ci.org/johnbywater/es-example-cargo-shipping)
+[![Coverage Status](https://coveralls.io/repos/github/johnbywater/es-example-cargo-shipping/badge.svg?branch=master)](https://coveralls.io/github/johnbywater/es-example-cargo-shipping)
 
 Example paxos system using the Python eventsourcing library
 
