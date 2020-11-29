@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/johnbywater/es-example-cargo-shipping.svg?branch=master)](https://travis-ci.org/johnbywater/es-example-cargo-shipping)
 [![Coverage Status](https://coveralls.io/repos/github/johnbywater/es-example-cargo-shipping/badge.svg?branch=master)](https://coveralls.io/github/johnbywater/es-example-cargo-shipping)
 
-Example paxos system using the Python eventsourcing library
+Example "cargo shipping" system using the Python eventsourcing library
 
 This example follows the original Cargo Shipping example
 that figures in the DDD book, as coded in the "DDD Sample"
