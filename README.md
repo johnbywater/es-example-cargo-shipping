@@ -1,4 +1,13 @@
-# Cargo shipping example
+# Archived Repository
+
+This repository has been archived. The code is being maintained as an example within the core library.
+
+Please see:
+* https://eventsourcing.readthedocs.io/en/latest/topics/examples/cargo-shipping.html
+* https://github.com/pyeventsourcing/eventsourcing/tree/main/eventsourcing/examples/cargoshipping
+
+
+## Cargo shipping example
 
 [![Build Status](https://travis-ci.org/johnbywater/es-example-cargo-shipping.svg?branch=master)](https://travis-ci.org/johnbywater/es-example-cargo-shipping)
 [![Coverage Status](https://coveralls.io/repos/github/johnbywater/es-example-cargo-shipping/badge.svg?branch=master)](https://coveralls.io/github/johnbywater/es-example-cargo-shipping)
